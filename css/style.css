@@ -1,0 +1,37 @@
+body{
+    font: 20px Helvetica, sans-serif;
+}
+
+p{
+    font: 16px Helvetica, sans-serif;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.quem-somos{
+    background-color: rgba(211, 172, 187, 0.603);
+    color: rgb(255, 255, 255);
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.lifestyle{
+    background-color: white;
+    color: rgb(236, 148, 192);
+}
+
+.trips{
+    background-color: rgba(211, 172, 187, 0.603);
+    color: white;
+}
+
+.bg-footer{
+    background-color: white;
+    color: rgb(184, 154, 169);
+}
+
